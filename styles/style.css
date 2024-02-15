@@ -1,0 +1,125 @@
+*{
+    .merriweather-regular {
+        font-family: "Merriweather", serif;
+        font-weight: 400;
+        font-style: normal;
+      }
+      
+      .merriweather-bold {
+        font-family: "Merriweather", serif;
+        font-weight: 700;
+        font-style: normal;
+      }
+      
+      .merriweather-black {
+        font-family: "Merriweather", serif;
+        font-weight: 900;
+        font-style: normal;
+      }
+      
+}
+header{
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+}
+
+.section{
+    background-image: url('../resources/Banner\ Image.png');
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 16px;
+background:  #070211 0%, rgba(7, 2, 17, 0.00) 100%;
+
+}
+.section-content{
+    text-align: center;
+    padding-top: 300px;
+ 
+}
+.section-tittle{
+    color: #FFF;
+font-size: 32px;
+font-weight: 400;
+}
+.section-description{
+    color: #FFF;
+font-size: 72px;
+font-weight: 900;
+line-height: 95px;
+/* width: 100px; */
+/* margin-bottom: 200px; */
+
+
+
+
+}
+.another-section{
+    margin-top: 120px;
+    text-align: center;
+}
+.another-p{
+    color: #F00;
+font-size: 88px;
+font-weight: 700;
+}
+.another-description{
+    color: #F00;
+font-size: 24px;
+font-weight: 500;
+}
+.another-pa{
+    color: #070211;
+font-size: 48px;
+font-weight: 700;
+
+}
+.latest{
+    width: 1320px;
+height: 600px;
+flex-shrink: 0;
+}
+.new-section{
+background-image: url('../resources/Vectorrr.png');
+width: 100vw;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+.new-section-tittle{
+   margin-left: 710px;
+    padding-top: 390px;
+    width: 642px;
+    color: #FFF;
+font-size: 64px;
+font-weight: 900;
+line-height: 88px; 
+letter-spacing: 7.04px;
+margin-bottom: 24px;
+
+}
+.new-section-tittle-description{
+    margin-left: 710px;
+    margin-top: 24px;
+    width: 697px;
+    color:#FFFFFFCC;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px; 
+}
+
+
+.raw{
+    color: #FFF;
+margin-left: 750px;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+padding-bottom: 142px;
+}
