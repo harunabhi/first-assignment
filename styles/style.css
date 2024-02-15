@@ -181,3 +181,52 @@ font-weight: 700;
 text-transform: uppercase;
 
 }
+.extra{
+    width: 1600px;
+height: 7335px;
+}
+.extra-section{
+    margin-top: 1000px;
+margin-left: 620px;
+}
+.extra-section p{
+margin: 5px;
+}
+.first-description{
+    color: #F00;
+font-size: 24px;
+font-weight: 500;
+
+}
+.second-description{
+    color: #070211;
+font-size: 48px;
+font-style: normal;
+font-weight: 900;
+line-height: normal;
+text-transform: capitalize;
+}
+.third-description{
+    color:#07021199;
+font-family: Inter;
+font-size: 20px;
+font-weight: 400;
+line-height: 32px; 
+}
+.image-session{
+    width: 100%;
+
+  margin-left: 600px;
+  margin-top: 48px;
+}
+.image-session img{
+  margin-left: 24px;
+}
+.another-image{
+    margin-left: 600px;
+    width: 100%;
+}
+.another-image img{
+    margin-left: 24px;
+    margin-top: 24px;
+}
