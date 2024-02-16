@@ -18,6 +18,9 @@
       }
       
 }
+body:hover{
+cursor: copy;
+}
 header{
     width: 1320px;
 height: 600px;
@@ -352,6 +355,7 @@ padding-left: 140px;
 .paragraph .second{
     margin-right: 220px;
 }
+
 
 
 
